@@ -28,6 +28,7 @@ module.exports = {
     },
   },
 
+  // for Heroko
   production: {
     client: "pg",
     connection: pgConnection,
